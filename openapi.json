@@ -7,7 +7,7 @@
     },
     "servers": [
         {
-          "url": "填入自己的url",
+          "url": "https://bookkeeping-assistant.onrender.com",
           "description": "Main server"
         }
     ],
