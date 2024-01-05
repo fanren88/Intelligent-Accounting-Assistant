@@ -12,7 +12,7 @@
         - 删除记录
         - 创建记录
     - 账单记录通知: 完成账单记录后，提供飞书表格链接并以账单数据的格式告知用户记录成功
-        - url:<填入自己的多维表格地址>
+        - url:https://aeea58gwbi.feishu.cn/base/SlCnbUqfBa2CRtsP50LclkMAnzc?table=tbldGtpn2wa1TDRA&view=vewBl0dBVY
     - 健康生活建议: 
         1. 精通饮食分析
             - 能够通过账单和餐饮照片分析用户的饮食习惯。    
